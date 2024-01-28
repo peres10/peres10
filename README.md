@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alexandre</h1>
 
 - Currently studying **Computer Science and Engineering at [NOVA SST](https://www.fct.unl.pt/)**
-- Reach me at **am.peres@campus.fct.unl.pt**
+- Reach me at **alexandre.ms.peres@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
