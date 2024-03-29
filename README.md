@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Alexandre</h1>
 
-- Currently studying **Computer Science and Engineering at [NOVA SST](https://www.fct.unl.pt/)**
+- Computer Science and Engineering Graduate from [NOVA SST](https://www.fct.unl.pt/)**
 - Reach me at **alexandre.ms.peres@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
