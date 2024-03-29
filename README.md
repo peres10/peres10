@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Alexandre</h1>
 
-- Computer Science and Engineering Graduate from [NOVA SST](https://www.fct.unl.pt/)**
+- Computer Science and Engineering Graduate from **[NOVA SST](https://www.fct.unl.pt/)**
 - Reach me at **alexandre.ms.peres@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,6 +14,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" id="javascript"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer" id="react"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer" id="python"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" id="c"> 
